@@ -10,7 +10,7 @@ export async function triggerLoadingDockProcessing(fileID, platform, publicFile 
         let userGroup;
 
         switch (platform) {
-            case "bright":
+            case "######":
                 userGroup = 'vfimjmw491ef1a8';
                 break;
 

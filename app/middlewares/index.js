@@ -26,7 +26,7 @@ export const contentType = (req, res, next) => {
 }
 
 export const validateHeaders = (req, res, next) => {
-    const platforms = ['bright', 'fujifilm'];
+    const platforms = ['#####', '#####'];
 
     if (!req.headers.hasOwnProperty('platform')) {
         return res.status(StatusCodes.BAD_REQUEST).json({ message: "Unauthorized platform." });

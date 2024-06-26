@@ -6,7 +6,7 @@ const allowedOrigins = [
     'localhost:*',
     '*.development.uk',
     '*.staging.uk',
-    '*.brightcloud.uk.com',
+    '*.cloud.uk.com',
     '*.cloud.com',
 ];
 
