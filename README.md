@@ -1,11 +1,5 @@
 # ARCHIVES API #
 
-### DEV URI ###
-https://archives-api.development.uk/
-
-### DEV DB EXPLORER ###
-https://archives-api.dev-data.uk/
-
 ### MANDATORY HEADERS ###
 User-Token needs to be specified as a header and it's mandatory.
 
